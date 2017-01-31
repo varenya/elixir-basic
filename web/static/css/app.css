@@ -1,0 +1,23 @@
+/* This file is for your main application css. */
+
+.help-block {
+  color:red;
+  text-transform: capitalize;
+  position: absolute;
+  top:24px;
+}
+
+body {
+  margin:0px;
+}
+nav {
+  margin-bottom: 30px;
+}
+
+input[type=text] {
+  font-size: 2rem;
+}
+.form-group{
+  position: relative;
+  margin-bottom: 30px;
+}
